@@ -4,7 +4,7 @@ import threading
 import time
 import os
 
-CCIP = "172.29.49.65"
+CCIP = "<YOUR_CCHOST_IP_ADDRESS>"
 CCPORT = 443
 
 
